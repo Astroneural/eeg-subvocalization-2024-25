@@ -33,7 +33,7 @@ test_data = convert("/Users/shaum/eeg-stuffs/ut5_test.csv")
 val_data = convert('/Users/shaum/eeg-stuffs/ut5_val.csv') # swapping these two lead to different results. 
 # This way ~70% is achievable with val accuracies similar. Swapped test accuracy goes to ~75% but there is greater discrepancies.
 
-
+# testing
 
 '''import seaborn as sns
 
